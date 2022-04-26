@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    font-family: 'Ubuntu';
+}
+
+.main {
+    background-color: #fdecdb;
+    color: #874356;
+    height: 40rem;
+    
+}
+
+.title {
+    color: #542323;
+    text-decoration: underline;
+}
+
+.nav-link {
+    color: #542323;
+    font-size: 20px;
+}
+
+.navbar-toggler-icon {
+    background-color: #542323;
+}
+
+/* promptbox */
+
+.prompt-row {
+    height: 20rem;
+}
+
+.prompt-box  {
+    padding-top: 6rem;
+}
+
+.prompt-text {
+    font-size: 2.2rem;
+}
+
+/* saverow */
+
+.btn-fine {
+    background-color: #542323;
+    color:#F6E7D8;
+}
+
+
+
+/* favorites */
+
+.favorites {
+    background-color: #874356;
+    color: #F6E7D8;
+    height: 30rem;
+    padding-top: 2.5rem;
+}
+
+.favorites-title {
+    margin-bottom: 4rem;
+}
+
+.favorites-card {
+    background-color: #fed4e0;
+    color: #000000;
+    padding: 2%, 0;
+    margin: 1px;
+}
